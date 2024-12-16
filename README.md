@@ -1,6 +1,6 @@
 # Olá ! 
 
-My name is Daniel Ramgi. I am a full-time software developer living in Lisbon, Portugal.
+My name is Daniel. I am a full-time software developer living in Portugal.
 
 
 ## 🛠  Technologies and tools
@@ -19,4 +19,4 @@ My name is Daniel Ramgi. I am a full-time software developer living in Lisbon, P
 
 ## 🔍  Where to find me
 
-[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/daniel-ramgi-b75762258/)
+[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />]()
